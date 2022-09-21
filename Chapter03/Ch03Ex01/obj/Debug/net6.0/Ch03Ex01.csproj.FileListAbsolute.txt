@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\refint\Ch03Ex01.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter03\Ch03Ex01\obj\Debug\net6.0\ref\Ch03Ex01.dll
