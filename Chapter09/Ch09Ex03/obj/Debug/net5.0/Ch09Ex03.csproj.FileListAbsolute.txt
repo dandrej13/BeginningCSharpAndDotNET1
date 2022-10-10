@@ -1,0 +1,16 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\bin\Debug\net5.0\Ch09Ex03.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\refint\Ch09Ex03.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\Ch09Ex03.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09Ex03\obj\Debug\net5.0\ref\Ch09Ex03.dll

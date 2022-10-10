@@ -1,0 +1,12 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\refint\Ch09ClassLib.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\ref\Ch09ClassLib.dll
