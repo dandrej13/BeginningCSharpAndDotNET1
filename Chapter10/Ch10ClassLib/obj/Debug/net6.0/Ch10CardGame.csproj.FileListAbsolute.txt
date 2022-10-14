@@ -1,0 +1,12 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\bin\Debug\net6.0\Ch10CardGame.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\bin\Debug\net6.0\Ch10CardGame.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\bin\Debug\net6.0\Ch10CardGame.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\Ch10CardGame.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\Ch10CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\Ch10CardGame.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\Ch10CardGame.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\Ch10CardGame.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\Ch10CardGame.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\refint\Ch10CardGame.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\Ch10CardGame.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter10\Ch10ClassLib\obj\Debug\net6.0\ref\Ch10CardGame.dll
