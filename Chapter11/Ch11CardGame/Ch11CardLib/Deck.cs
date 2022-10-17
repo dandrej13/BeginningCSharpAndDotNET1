@@ -6,8 +6,15 @@ using System.Text;
 
 namespace Ch11CardLib
 {
-    public class Deck
+    public class Deck : ICloneable
     {
+        public object Clone()
+        {
+            Deck newDeck = new Deck(cards.Clone() as CardCollection);
+            return newDeck;
+        }
+        private Deck(CardCollection newCards) => cards = newCards;
+       
         private CardCollection cards = new CardCollection();
         public Deck()
         {

@@ -7,8 +7,17 @@ using System.Collections;
 
 namespace Ch11CardLib
 {
-    public class CardCollection : CollectionBase
+    public class CardCollection : CollectionBase, ICloneable
     {
+         public object Clone()
+        {
+            CardCollection newCardCollection = new CardCollection();
+            foreach (Card sourceCard in List)
+            {
+                newCardCollection.Add(sourceCard);
+            }
+            return newCardCollection;
+        }
         public void Add(Card newCard) => List.Add(newCard);
 
         public void Remove(Card oldCard) => List.Remove(oldCard);
@@ -39,5 +48,6 @@ namespace Ch11CardLib
         /// </summary>
         public bool Contains(Card card) => InnerList.Contains(card);
 
+       
     }
 }

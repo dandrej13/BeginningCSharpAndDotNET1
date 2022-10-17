@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter11\Ch11CardGame\Ch11CardLib\obj\Debug\net6.0\Ch11CardLib.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter11\Ch11CardGame\Ch11CardLib\obj\Debug\net6.0\Ch11CardLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter11\Ch11CardGame\Ch11CardLib\obj\Debug\net6.0\Ch11CardLib.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter11\Ch11CardGame\Ch11CardLib\obj\Debug\net6.0\Ch11CardLib.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter11\Ch11CardGame\Ch11CardLib\obj\Debug\net6.0\Ch11CardLib.csproj.CoreCompileInputs.cache
