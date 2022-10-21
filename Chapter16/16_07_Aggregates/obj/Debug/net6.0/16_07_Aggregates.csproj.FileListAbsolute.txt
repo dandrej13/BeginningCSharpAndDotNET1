@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\bin\Debug\net6.0\16_07_Aggregates.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\bin\Debug\net6.0\16_07_Aggregates.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\bin\Debug\net6.0\16_07_Aggregates.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\bin\Debug\net6.0\16_07_Aggregates.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\bin\Debug\net6.0\16_07_Aggregates.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\16_07_Aggregates.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\16_07_Aggregates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\16_07_Aggregates.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\16_07_Aggregates.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\16_07_Aggregates.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\16_07_Aggregates.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\refint\16_07_Aggregates.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\16_07_Aggregates.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\16_07_Aggregates.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_07_Aggregates\obj\Debug\net6.0\ref\16_07_Aggregates.dll

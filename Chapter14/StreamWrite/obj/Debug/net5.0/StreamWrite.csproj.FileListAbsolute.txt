@@ -1,0 +1,16 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\bin\Debug\net5.0\StreamWrite.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\bin\Debug\net5.0\StreamWrite.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\bin\Debug\net5.0\StreamWrite.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\bin\Debug\net5.0\StreamWrite.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\bin\Debug\net5.0\StreamWrite.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\bin\Debug\net5.0\StreamWrite.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\StreamWrite.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\StreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\StreamWrite.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\StreamWrite.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\StreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\StreamWrite.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\refint\StreamWrite.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\StreamWrite.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\StreamWrite.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter14\StreamWrite\obj\Debug\net5.0\ref\StreamWrite.dll

@@ -1,0 +1,16 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\bin\Debug\net5.0\SerializeJSON.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\bin\Debug\net5.0\SerializeJSON.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\bin\Debug\net5.0\SerializeJSON.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\bin\Debug\net5.0\SerializeJSON.runtimeconfig.dev.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\bin\Debug\net5.0\SerializeJSON.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\bin\Debug\net5.0\SerializeJSON.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\SerializeJSON.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\SerializeJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\SerializeJSON.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\SerializeJSON.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\SerializeJSON.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\SerializeJSON.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\refint\SerializeJSON.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\SerializeJSON.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\SerializeJSON.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter15\SerializeJSON\obj\Debug\net5.0\ref\SerializeJSON.dll

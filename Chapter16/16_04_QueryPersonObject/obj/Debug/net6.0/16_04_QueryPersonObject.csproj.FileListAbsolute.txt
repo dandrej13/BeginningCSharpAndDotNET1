@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\bin\Debug\net6.0\16_04_QueryPersonObject.exe
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\bin\Debug\net6.0\16_04_QueryPersonObject.deps.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\bin\Debug\net6.0\16_04_QueryPersonObject.runtimeconfig.json
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\bin\Debug\net6.0\16_04_QueryPersonObject.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\bin\Debug\net6.0\16_04_QueryPersonObject.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\16_04_QueryPersonObject.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\16_04_QueryPersonObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\16_04_QueryPersonObject.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\16_04_QueryPersonObject.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\16_04_QueryPersonObject.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\16_04_QueryPersonObject.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\refint\16_04_QueryPersonObject.dll
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\16_04_QueryPersonObject.pdb
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\16_04_QueryPersonObject.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Desktop\code22\FullStackDevelopment\BeginningCSharpAndDotNET1\Chapter16\16_04_QueryPersonObject\obj\Debug\net6.0\ref\16_04_QueryPersonObject.dll
